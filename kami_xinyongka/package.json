@@ -18,7 +18,7 @@
     "js-md5": "^0.7.3",
     "mint-ui": "^2.2.13",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "vconsole": "^3.3.2",
     "vue": "^2.2.6",
     "vue-filter-bar": "^1.0.7",
